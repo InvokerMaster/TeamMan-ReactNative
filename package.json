@@ -22,7 +22,7 @@
     "android-release": "node node_modules/react-native/local-cli/cli.js run-android --variant=release"
   },
   "dependencies": {
-    "lodash": "^4.2.1",
+    "lodash": "^4.17.21",
     "moment": "^2.11.2",
     "prop-types": "^15.5.10",
     "react": "16.0.0-alpha.6",
